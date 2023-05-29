@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		71205E362A24D95500EBF00E /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71205E352A24D95500EBF00E /* FollowerListVC.swift */; };
 		7188E7B02A24A29A00F59DA8 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7188E7AF2A24A29A00F59DA8 /* GFTextField.swift */; };
 		71D25E8A2A23D124000307D3 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D25E892A23D124000307D3 /* GFButton.swift */; };
 		71F03E972A23611500663C95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F03E962A23611500663C95 /* AppDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		71205E352A24D95500EBF00E /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 		7188E7AF2A24A29A00F59DA8 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 		71D25E892A23D124000307D3 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		71F03E932A23611500663C95 /* GHFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +71,7 @@
 				71F03EAC2A23664600663C95 /* FavoritesListVC.swift */,
 				71D25E892A23D124000307D3 /* GFButton.swift */,
 				7188E7AF2A24A29A00F59DA8 /* GFTextField.swift */,
+				71205E352A24D95500EBF00E /* FollowerListVC.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				71F03EAD2A23664600663C95 /* FavoritesListVC.swift in Sources */,
 				71D25E8A2A23D124000307D3 /* GFButton.swift in Sources */,
 				71F03EAB2A23661200663C95 /* SearchVC.swift in Sources */,
+				71205E362A24D95500EBF00E /* FollowerListVC.swift in Sources */,
 				71F03E972A23611500663C95 /* AppDelegate.swift in Sources */,
 				71F03E992A23611500663C95 /* SceneDelegate.swift in Sources */,
 			);
